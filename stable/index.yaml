@@ -1,13 +1,23 @@
 apiVersion: v1
 entries:
+  demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-16T04:12:15.644638092Z"
+    description: A Helm chart for Kubernetes
+    digest: 7cb7f0c6a6fc28f824a375447e8b9f9c8c542617ff8a673dd18d648ebebc1004
+    name: demo
+    urls:
+    - https://qkrtjddlsgh.github.io/helm-chart-repo/stable/demo-0.1.0.tgz
+    version: 0.1.0
   hello-world:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-16T04:06:22.72411147Z"
+    created: "2020-01-16T04:12:15.644886226Z"
     description: A Helm chart for Kubernetes
     digest: ca14f88cd03d124ae8520179d455328688653e384c8384bf2aaaecc78f67ae71
     name: hello-world
     urls:
     - https://qkrtjddlsgh.github.io/helm-chart-repo/stable/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-16T04:06:22.723624257Z"
+generated: "2020-01-16T04:12:15.643956133Z"
